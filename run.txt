@@ -1,0 +1,3 @@
+java -jar secureApp.jar encrypt "AStPass()" akey "ASecPass@#" bkeyremote
+
+java -jar secureApp.jar decrypt "BSt[]Pass" bkey "BSecPass$%" akeyremote
